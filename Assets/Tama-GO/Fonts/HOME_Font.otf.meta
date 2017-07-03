@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b5553967240069a459b6706b447dd52b
+timeCreated: 1498635029
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Home Movie Font Normal
+  fontNames:
+  - Home Movie Font Normal
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
